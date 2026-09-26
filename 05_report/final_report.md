@@ -1,7 +1,6 @@
 # From Gene Mutation to Disease: Investigating How DNA Sequence Changes Affect Protein Products and Human Phenotypes
 
 **Student:** Niña Karylle Ausejo Catipay
-
 **Subject:** Cell and Molecular Biology Laboratory  
 **Disease:** Congenital Adrenal Hyperplasia (CAH)  
 **Gene:** CYP21A2  
@@ -28,11 +27,11 @@ This variant is strongly associated with simple virilizing Congenital Adrenal Hy
 
 The original nucleotide at position c.518 was T, while the mutant nucleotide was A. The surrounding coding sequence changed from:
 
-'TCCAATCAAATT'
+`TCCAATCAAATT`
 
 to:
 
-'TCCACCAAATT'
+`TCCACCAAATT`
 
 Only one nucleotide was substituted. The mutant CDS remained 1,488 bp in length, and the predicted mutant protein remained 495 amino acids long. The reading frame remained intact, and no premature stop codons were introduced.
 
