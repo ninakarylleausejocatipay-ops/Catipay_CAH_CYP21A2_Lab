@@ -1,7 +1,8 @@
 # From Gene Mutation to Disease: Investigating How DNA Sequence Changes Affect Protein Products and Human Phenotypes
 
 **Student:** Catipay, Niña Karylle A.  
-**Subject:** Cell and Molecular Biology  
+**Subject:** Cell and Molecular Biology
+
 **Disease:** Congenital Adrenal Hyperplasia (CAH)
 **Gene:** CYP21A2
 
