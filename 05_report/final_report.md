@@ -30,11 +30,11 @@ This variant is strongly associated with simple virilizing Congenital Adrenal Hy
 
 The original nucleotide at position c.518 was T, while the mutant nucleotide was A. The surrounding coding sequence changed from:
 
-`TCCAATCAAATT`
+`TCCATCAAATT`
 
 to:
 
-`TCCACCAAATT`
+`TCCAACAAATT`
 
 Only one nucleotide was substituted. The mutant CDS remained 1,488 bp in length, and the predicted mutant protein remained 495 amino acids long. The reading frame remained intact, and no premature stop codons were introduced.
 
