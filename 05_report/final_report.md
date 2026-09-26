@@ -2,7 +2,7 @@
 
 **Student:** Catipay, Niña Karylle A.  
 **Subject:** Cell and Molecular Biology  
-**Disease:** Congenital Adrenal Hyperplasia (CAH) 
+**Disease:** Congenital Adrenal Hyperplasia (CAH)
 **Gene:** CYP21A2
 
 ## 1. Introduction
